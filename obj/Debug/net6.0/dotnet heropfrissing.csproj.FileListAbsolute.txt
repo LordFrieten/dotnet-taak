@@ -1,0 +1,15 @@
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\bin\Debug\net6.0\dotnet heropfrissing.exe
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\bin\Debug\net6.0\dotnet heropfrissing.deps.json
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\bin\Debug\net6.0\dotnet heropfrissing.runtimeconfig.json
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\bin\Debug\net6.0\dotnet heropfrissing.dll
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\bin\Debug\net6.0\dotnet heropfrissing.pdb
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.dll
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\refint\dotnet heropfrissing.dll
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.pdb
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\dotnet heropfrissing.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Documenten\dotnet heropfrissing\obj\Debug\net6.0\ref\dotnet heropfrissing.dll
