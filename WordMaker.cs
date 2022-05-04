@@ -1,6 +1,6 @@
 class WordMaker
 {
-    public static List<WordMaker> listing;//maakt lijstje van alle woorden aan
+    public static IList<WordMaker> listing;//maakt lijstje van alle woorden aan
     private static int hoeveelLetters;//controleert hoeveel letters je mag hebben
     
     public static int getHoeveelLetters(){//enkel get zodra gezet
@@ -43,6 +43,9 @@ class WordMaker
         word = "";
         listOfWords = new List<string>();
         listing.Add(this);
+    }
+    static public IEnumerable<string> allUnique(){
+        return listing.Select(x=>x.toString()).Distinct();
     }
 
 } 

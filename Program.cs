@@ -3,7 +3,7 @@
     static void Main()//applicatie runt met standaard dotnet run van dotnet sdk
     {
         // bron: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/how-to-read-from-a-text-file
-        string[] lines = System.IO.File.ReadAllLines(@"test.txt");// kan makkelijk aangepast worden omdat het maar 1 keer wordt gedeclareerd, gebruik test.txt omdat
+        string[] lines = System.IO.File.ReadAllLines(@"input.txt");// kan makkelijk aangepast worden omdat het maar 1 keer wordt gedeclareerd, gebruik test.txt omdat
         
         foreach (string line in lines){
         int check=1;
@@ -20,8 +20,9 @@
             }
         }
         }
-        foreach (WordMaker word in WordMaker.listing){
-            Console.WriteLine(word.toString());
+
+        foreach (string word in WordMaker.allUnique()){//poging tot dubbels uit presentatie te halen
+            Console.WriteLine(word);
         }
     }
    
